@@ -1,10 +1,10 @@
-# Laundry Service Finder App
+# Mobile App
 
 A React Native mobile application that helps users find  service vendors based on location, service type, .
 
-![Home Screen](link_to_home_screen.png)
-![Vendor List](link_to_vendor_list.png) 
-![Vendor Details](link_to_vendor_details.png)
+![Home Screen](/screenshots/home_screen.jpg)
+![Vendor List](/screenshots/vendor_list.jpg) 
+![Vendor Details](/screenshots/vendor_detail.jpg)
 
 ## Features
 
@@ -24,7 +24,7 @@ A React Native mobile application that helps users find  service vendors based o
 
 1. Clone the repository
 ```
-git clone https://github.com/yourusername/laundry-service-app.git
+git clone https://github.com/nerdyEther/react_native_app.git
 ```
 2. Install dependencies in both client and server folders
 
