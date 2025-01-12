@@ -1,0 +1,39 @@
+{
+  "vendors": [
+    {
+      "id": "1",
+      "name": "Vendor 1",
+      "location": "Hyderabad",
+      "coordinates": { "latitude": 17.406, "longitude": 78.477 },
+      "services": ["Wash", "Wash & Fold", "Dry Cleaning"]
+    },
+    {
+      "id": "2",
+      "name": "Vendor 2",
+      "location": "Bangalore",
+      "coordinates": { "latitude": 12.971, "longitude": 77.594 },
+      "services": ["Wash", "Ironing", "Wash & Ironing"]
+    },
+    {
+      "id": "3",
+      "name": "Vendor 3",
+      "location": "Chennai",
+      "coordinates": { "latitude": 13.084, "longitude": 80.270 },
+      "services": ["Dry Cleaning", "Wash & Fold", "Ironing"]
+    },
+    {
+      "id": "4",
+      "name": "Vendor 4",
+      "location": "Mumbai",
+      "coordinates": { "latitude": 19.076, "longitude": 72.877 },
+      "services": ["Wash", "Wash & Ironing", "Dry Cleaning"]
+    },
+    {
+      "id": "5",
+      "name": "Vendor 5",
+      "location": "Delhi",
+      "coordinates": { "latitude": 28.704, "longitude": 77.102 },
+      "services": ["Wash & Fold", "Ironing", "Dry Cleaning"]
+    }
+  ]
+}
