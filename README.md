@@ -1,6 +1,6 @@
 # Mobile App
 
-A React Native mobile application that helps users find  service vendors based on location, service type, .
+A React Native mobile application that helps users find  service vendors based on location, service type.
 
 ![Home Screen](/screenshots/home_screen.jpg)
 ![Vendor List](/screenshots/vendor_list.jpg) 
