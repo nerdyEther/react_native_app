@@ -12,7 +12,7 @@ A React Native mobile application that helps users find  service vendors based o
 - **Search by Service**: Find vendors by preferred services.
 - **Search by Location and Service**: Search by both location and service.
 - **Nearby Search**: Find vendors closest to user's current location. (<=50Km)
-- ** Vendor Information**: View vendor details including:
+- **Vendor Information**: View vendor details including:
  - Available services
  - Location
  - Distance from current location
@@ -52,8 +52,8 @@ npx expo start
 
 5. Update API URL
 
--Find your  IP address
--Update the API_URL in src/api.js with your IP address
+Find your  IP address
+Update the API_URL in src/api.js with your IP address
 
 ```
 const API_URL = 'http://YOUR_IP_ADDRESS:3000/api';
