@@ -2,9 +2,13 @@
 
 A React Native mobile application that helps users find  service vendors based on location, service type.
 
-![Home Screen](/screenshots/home_screen.jpg)
-![Vendor List](/screenshots/vendor_list.jpg) 
-![Vendor Details](/screenshots/vendor_detail.jpg)
+<table>
+  <tr>
+    <td><img src="/screenshots/home_screen.jpg" width="250"/></td>
+    <td><img src="/screenshots/vendor_list.jpg" width="250"/></td>
+    <td><img src="/screenshots/vendor_detail.jpg" width="250"/></td>
+  </tr>
+</table>
 
 ## Features
 
